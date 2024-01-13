@@ -1,4 +1,13 @@
-### ¡Hola parce! ¿Que hubo pues? 👋🏽
+## ¡Hola parce! ¿Que hubo pues? 👋🏽
+
+Hi there! Here's some information about what I'm up to this month.
+
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on creating a reproducible NixOS and Home Manager
+  configuration to make working with various computers easier for me across
+  Linux & Darwin (macOS).
+- 📫 How to reach me: please email me or message me across social media if
+  you'd like to discuss anything with me.
 
 <!--
 **rogeruiz/rogeruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
