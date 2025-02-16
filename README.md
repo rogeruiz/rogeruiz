@@ -5,7 +5,7 @@ trabajo](https://img.shields.io/badge/abierto_a_trabajo-contáctame-04a5e5?style
 
 > 👀 Can't read Spanish?
 >
-> To read this in English, [click here](#hey-folks-whats-up)
+> To read this in English, [click here](#hey-folks-whats-up-)
 
 Soy Roger Steve, y mis pronombres son el/lo. Bienvenidos a mi página de GitHub.
 Soy un ingeniero de software viviendo en Chicago, IL, EE. UU.
