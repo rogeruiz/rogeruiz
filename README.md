@@ -1,25 +1,48 @@
-## ¡Hola parce! ¿Que hubo pues? 👋🏽
+## Hola, parcer@s. ¿Quiubo pues? 👋🏼
 
-Hi there! Here's some information about what I'm up to this month.
+[![Abierto a proposiciones de
+trabajo](https://img.shields.io/badge/abierto_a_trabajo-contáctame-04a5e5?style=for-the-badge)](mailto:contact@rog.gr?subject=Tengo%20un%20proyecto%20para%20usted&body=Apreciado%20Señor%20Ruiz,%0D%0A%0D%0AMi%20proyecto%20consiste%20de...%0D%0A)
 
-- 😄 Pronouns: he/him
-- 🔭 I’m currently working on creating a reproducible NixOS and Home Manager
-  configuration to make working with various computers easier for me across
-  Linux & Darwin (macOS).
-- 📫 How to reach me: please email me or message me across social media if
-  you'd like to discuss anything with me.
+> 👀 Can't read Spanish?
+>
+> To read this in English, [click here](#hey-folks-whats-up)
 
-<!--
-**rogeruiz/rogeruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Roger Steve, y mis pronombres son el/lo. Bienvenidos a mi página de GitHub.
+Soy un ingeniero de software viviendo en Chicago, IL, EE. UU.
 
-Here are some ideas to get you started:
+Me gusta trabajar con proyectos de fuente-abierta con las próximas licencias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Creative Commons Zero](https://img.shields.io/badge/licensia-CC0-179299?style=for-the-badge)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/licensia-GNU_GPLv3-179299?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.txt) [![MIT](https://img.shields.io/badge/licensia-MIT-179299?style=for-the-badge)](https://mit-license.org/)
+
+También trabajo con licencias privadas o proyectos en fuente-cerradas pero lo
+trato de limitar mis proyectos de este tipo para proyectos de clientes que me
+piden que trabaje así.
+
+### Tecnológica que he utilizado
+
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/-Let's_Encrypt-003a70?style=for-the-badge&logo=letsencrypt&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Zsh](https://img.shields.io/badge/-Zsh-f15a24?style=for-the-badge&logo=zsh&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Hugo](https://img.shields.io/badge/-hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white) ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-4c4f69?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Gin](https://img.shields.io/badge/-gin-008ECF?style=for-the-badge&logo=gin&logoColor=white) ![HTMx](https://img.shields.io/badge/-htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Lua](https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Terraform](https://img.shields.io/badge/-terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Open Tofu](https://img.shields.io/badge/-open_tofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black) ![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![TOML](https://img.shields.io/badge/-toml-9C4121?style=for-the-badge&logo=toml&logoColor=white) ![JSON](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json&logoColor=white) ![Prettier](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![Confluence](https://img.shields.io/badge/-confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white) ![Wireguard](https://img.shields.io/badge/-wireguard-88171A&?style=for-the-badge&logo=wireguard&logoColor=white) ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black) ![Homebrew](https://img.shields.io/badge/-Homebrew-fbb040?style=for-the-badge&logo=homebrew&logoColor=black) ![SQLite](https://img.shields.io/badge/-sqlite-03b57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+Y también ciertos productos de Microsoft como: **Azure**, **Blazor**, **.NET**, **Playwright**, **GitHub**, **Windows**, y más.
+
+---
+
+## Hey, folks. What's up? 👋🏼
+
+[![Open to proposals for
+work](https://img.shields.io/badge/open_to_work-contact_me-04a5e5?style=for-the-badge)](mailto:contact@rog.gr?subject=I%20have%20a%20project%20for%20you&body=Dear%20Mr.%20Ruiz,%0D%0A%0D%0AMy%20project%20consists%20of...%0D%0A)
+
+I'm Roger Steve, pronouns he/him. Welcome to my page on GitHub. I'm a software
+engineer living in Chicago, IL, USA.
+
+I like to work on open-source projects with the following licenses.
+
+[![Creative Commons Zero](https://img.shields.io/badge/license-CC0-179299?style=for-the-badge)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/license-GNU_GPLv3-179299?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.txt) [![MIT](https://img.shields.io/badge/license-MIT-179299?style=for-the-badge)](https://mit-license.org/)
+
+I also work with private or closed-source projects but I try to limit these
+types of projects only for clients to ask me to work in this way.
+
+### Technology I've used
+
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/-Let's_Encrypt-003a70?style=for-the-badge&logo=letsencrypt&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Zsh](https://img.shields.io/badge/-Zsh-f15a24?style=for-the-badge&logo=zsh&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Hugo](https://img.shields.io/badge/-hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white) ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-4c4f69?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Gin](https://img.shields.io/badge/-gin-008ECF?style=for-the-badge&logo=gin&logoColor=white) ![HTMx](https://img.shields.io/badge/-htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Lua](https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Terraform](https://img.shields.io/badge/-terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Open Tofu](https://img.shields.io/badge/-open_tofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black) ![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![TOML](https://img.shields.io/badge/-toml-9C4121?style=for-the-badge&logo=toml&logoColor=white) ![JSON](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json&logoColor=white) ![Prettier](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![Confluence](https://img.shields.io/badge/-confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white) ![Wireguard](https://img.shields.io/badge/-wireguard-88171A&?style=for-the-badge&logo=wireguard&logoColor=white) ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/-jira-0052cc?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black) ![Homebrew](https://img.shields.io/badge/-Homebrew-fbb040?style=for-the-badge&logo=homebrew&logoColor=black) ![SQLite](https://img.shields.io/badge/-sqlite-03b57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/-rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+And also some Microsoft products like: **Azure**, **Blazor**, **.NET**, **Playwright**, **GitHub**, **Windows**, & more.
