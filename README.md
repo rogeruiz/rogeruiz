@@ -7,7 +7,7 @@ trabajo](https://img.shields.io/badge/abierto_a_trabajo-contáctame-04a5e5?style
 >
 > To read this in English, [click here](#hey-folks-whats-up-)
 
-Soy Roger Steve <!-- , y mis pronombres son el/lo -->. Bienvenidos a mi página de GitHub.
+Soy Roger Steve<!-- , y mis pronombres son el/lo -->. Bienvenidos a mi página de GitHub.
 Soy un ingeniero de software viviendo en Chicago, IL, EE. UU.
 
 Me gusta trabajar con proyectos de fuente-abierta con las próximas licencias.
@@ -31,7 +31,7 @@ Y también ciertos productos de Microsoft como: **Azure**, **Blazor**, **.NET**,
 [![Open to proposals for
 work](https://img.shields.io/badge/open_to_work-contact_me-04a5e5?style=for-the-badge)](mailto:contact@rog.gr?subject=I%20have%20a%20project%20for%20you&body=Dear%20Mr.%20Ruiz,%0D%0A%0D%0AMy%20project%20consists%20of...%0D%0A)
 
-I'm Roger Steve <!-- , pronouns he/him -->. Welcome to my page on GitHub. I'm a software
+I'm Roger Steve<!-- , pronouns he/him -->. Welcome to my page on GitHub. I'm a software
 engineer living in Chicago, IL, USA.
 
 I like to work on open-source projects with the following licenses.
