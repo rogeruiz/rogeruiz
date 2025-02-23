@@ -11,7 +11,7 @@ Soy Roger Steve<!-- , y mis pronombres son el/lo -->, un ciudadano de EE.UU. Bie
 
 Me gusta trabajar con proyectos de fuente-abierta con las próximas licencias.
 
-[![Creative Commons Zero](https://img.shields.io/badge/licencia-CC0-179299?style=social)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/licencia-GNU_GPLv3-179299?style=social)](https://www.gnu.org/licenses/gpl-3.0.txt) [![AGPLv3](https://img.shields.io/badge/licencia-AGPLv3-179299?style=social)](https://www.gnu.org/licenses/agpl-3.0.txt) [![MIT](https://img.shields.io/badge/licencia-MIT-179299?style=social)](https://mit-license.org/)
+[![Creative Commons Zero](https://img.shields.io/badge/licencia-CC0-179299?style=social)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/licencia-GNU_GPLv3-179299?style=social)](https://www.gnu.org/licenses/gpl-3.0.txt) [![GNU AGPLv3](https://img.shields.io/badge/licencia-GNU_AGPLv3-179299?style=social)](https://www.gnu.org/licenses/agpl-3.0.txt) [![MIT](https://img.shields.io/badge/licencia-MIT-179299?style=social)](https://mit-license.org/)
 
 También trabajo con licencias privadas o proyectos en fuente-cerradas pero lo
 trato de limitar mis proyectos de este tipo para proyectos de clientes que me
@@ -45,7 +45,7 @@ I'm Roger Steve<!-- , pronouns he/him -->, a United States citizen. Welcome to m
 
 I like to work on open-source projects with the following licenses.
 
-[![Creative Commons Zero](https://img.shields.io/badge/license-CC0-179299?style=social)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/license-GNU_GPLv3-179299?style=social)](https://www.gnu.org/licenses/gpl-3.0.txt) [![AGPLv3](https://img.shields.io/badge/license-AGPLv3-179299?style=social)](https://www.gnu.org/licenses/agpl-3.0.txt) [![MIT](https://img.shields.io/badge/license-MIT-179299?style=social)](https://mit-license.org/)
+[![Creative Commons Zero](https://img.shields.io/badge/license-CC0-179299?style=social)](https://creativecommons.org/public-domain/cc0/) [![GNU GPLv3](https://img.shields.io/badge/license-GNU_GPLv3-179299?style=social)](https://www.gnu.org/licenses/gpl-3.0.txt) [![GNU AGPLv3](https://img.shields.io/badge/license-GNU_AGPLv3-179299?style=social)](https://www.gnu.org/licenses/agpl-3.0.txt) [![MIT](https://img.shields.io/badge/license-MIT-179299?style=social)](https://mit-license.org/)
 
 I also work with private or closed-source projects but I try to limit these
 types of projects only for clients to ask me to work in this way.
